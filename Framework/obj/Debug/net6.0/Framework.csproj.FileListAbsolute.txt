@@ -1,0 +1,12 @@
+C:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Framework\bin\Debug\net6.0\Framework.deps.json
+C:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Framework\bin\Debug\net6.0\Framework.dll
+C:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Framework\bin\Debug\net6.0\ref\Framework.dll
+C:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Framework\bin\Debug\net6.0\Framework.pdb
+C:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Framework\obj\Debug\net6.0\Framework.csproj.AssemblyReference.cache
+C:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Framework\obj\Debug\net6.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Framework\obj\Debug\net6.0\Framework.AssemblyInfoInputs.cache
+C:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Framework\obj\Debug\net6.0\Framework.AssemblyInfo.cs
+C:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Framework\obj\Debug\net6.0\Framework.csproj.CoreCompileInputs.cache
+C:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Framework\obj\Debug\net6.0\Framework.dll
+C:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Framework\obj\Debug\net6.0\ref\Framework.dll
+C:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Framework\obj\Debug\net6.0\Framework.pdb

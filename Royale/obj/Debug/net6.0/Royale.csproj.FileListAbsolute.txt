@@ -1,0 +1,15 @@
+C:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Royale\obj\Debug\net6.0\Royale.csproj.AssemblyReference.cache
+C:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Royale\obj\Debug\net6.0\Royale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Royale\obj\Debug\net6.0\Royale.AssemblyInfoInputs.cache
+C:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Royale\obj\Debug\net6.0\Royale.AssemblyInfo.cs
+C:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Royale\obj\Debug\net6.0\Royale.csproj.CoreCompileInputs.cache
+c:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Royale\bin\Debug\net6.0\Royale.deps.json
+c:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Royale\bin\Debug\net6.0\Royale.dll
+c:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Royale\bin\Debug\net6.0\ref\Royale.dll
+c:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Royale\bin\Debug\net6.0\Royale.pdb
+c:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Royale\bin\Debug\net6.0\Framework.dll
+c:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Royale\bin\Debug\net6.0\Framework.pdb
+c:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Royale\obj\Debug\net6.0\Royale.csproj.CopyComplete
+c:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Royale\obj\Debug\net6.0\Royale.dll
+c:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Royale\obj\Debug\net6.0\ref\Royale.dll
+c:\Users\Niyon\desktop\coding\cs\scripting-to-framework\Royale\obj\Debug\net6.0\Royale.pdb
